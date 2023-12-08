@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Joystick Singlesense",
+      "preco": 400
+    },
+    {
+      "id": 2,
+      "nome": "Joystick Dualsense",
+      "preco": 1359.9
+    },
+    {
+      "id": 3,
+      "nome": "Joystick Multisense",
+      "preco": 2859.9
+    },
+    {
+      "nome": "Joystick Extrasense",
+      "preco": 3849.9,
+      "id": 4
+    }
+  ]
+}
